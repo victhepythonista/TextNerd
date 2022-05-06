@@ -1,15 +1,13 @@
 
 
 Title 			: TextNerd
-DESCRIPTION 	: A  text editor 
+DESCRIPTION 		: A  text editor 
 Languages		: Python
 frameworks 		: Kivy
 Author/dev 		: Leting Victor Kipkemboi
 Version 		: Alpha
 copyright 		: @2021 
 email			: letingvictorkipkemboi@gmail.com
-github			 : victhepythonista@gmail.com
-
 
 
 ~ Since I use Kivy..its a cross plattform application ..
@@ -41,7 +39,7 @@ _____________________________________________________________________
 ___________________________________________________________
 3	UPDATES
 
-The software  has more ibvious and unique  updates to come 
+The software  has more obvious and unique  updates to come 
 
 	V 2 UPDATES
 ---------------------
@@ -56,4 +54,4 @@ The software  has more ibvious and unique  updates to come
 - a full laid down structure of the app ( I  never thought I'd release it so 	I never create documentation : )
 
 
-# Ill greatly appreciate any  contribution and ideas
+# Ill greatly appreciate any  contribution and ideas...
