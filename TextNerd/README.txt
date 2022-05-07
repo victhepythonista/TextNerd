@@ -23,7 +23,6 @@ Enjoyy
 	____
 
 
-_____________________________________________________________________
 2	RUNNING THE PROGRAM
 
 
@@ -36,7 +35,7 @@ _____________________________________________________________________
 	#The  EXE file for 64 bit  computers  can be easily created by tools like 
 	# as for the code you should run main.py  in  python 3.5>   to start the app
 
-___________________________________________________________
+
 3	UPDATES
 
 The software  has more obvious and unique  updates to come 
